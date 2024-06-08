@@ -7,6 +7,6 @@ This project is a task scheduler implemented in Rust. It supports three scheduli
 - Shortest Remaining Time First (SRTF): Tasks with the shortest remaining processing time are processed first.
 ## Input File
 - The input file should be named input.txt and located in the same directory as the executable. Each line in the file should contain three values separated by spaces:
--- Process ID (PID)
--- Arrival Time
--- Burst Time
+- Process ID (PID)
+- Arrival Time
+- Burst Time
