@@ -45,12 +45,13 @@ Example:
    ```
 3. Build the project:
    ```sh
+   cargo init
    cargo build --release
    ```
 
 ## Usage
 
-1. Prepare the `input.txt` file with task information.
+1. You can prepare your own `input.txt` file with task information.
 2. Run the scheduler:
    ```sh
    cargo run --release
