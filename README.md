@@ -40,8 +40,8 @@ Example:
 1. Install Rust: https://www.rust-lang.org/tools/install
 2. Clone the repository:
    ```sh
-   git clone https://github.com/maryamjbr/cpu-cheduling.git
-   cd cpu-cheduling
+   git clone https://github.com/maryamjbr/cpu-scheduling.git
+   cd cpu-scheduling
    ```
 3. Build the project:
    ```sh
