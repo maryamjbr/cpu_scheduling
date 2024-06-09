@@ -41,7 +41,7 @@ Example:
 2. Clone the repository:
    ```sh
    git clone https://github.com/maryamjbr/cpu-cheduling.git
-   cpu-cheduling
+   cd cpu-cheduling
    ```
 3. Build the project:
    ```sh
